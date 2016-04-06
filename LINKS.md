@@ -3,6 +3,7 @@
 * https://github.com/fuzzdb-project/fuzzdb/tree/master/attack/sql-injection
 * https://github.com/tennc/fuzzdb/tree/master/dict/BURP-PayLoad ; https://github.com/tennc/fuzzdb/tree/master/attack-payloads/sql-injection
 * https://github.com/danTaler/detectionString
+* https://github.com/NickSanzotta/BurpIntruder
 * https://github.com/client9/libinjection/blob/master/data/sqli-misc.txt
 * https://rmccurdy.com/scripts/sql.txt
 * https://github.com/TeamMentor/TM_Temp_Scripts
