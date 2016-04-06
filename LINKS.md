@@ -6,3 +6,5 @@
 * https://rmccurdy.com/scripts/sql.txt
 * https://github.com/TeamMentor/TM_Temp_Scripts
 * https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/FuzzLists
+* https://github.com/owtf/owtf/blob/develop/dictionaries/attack_vectors/web/sqli/basic.txt
+* 
